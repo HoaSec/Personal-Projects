@@ -1,4 +1,3 @@
-import time
 print("It works!!!!")
 print("Sleeping 10 seconds")
 time.sleep(10)
